@@ -1,0 +1,67 @@
+.container{
+    background-color: black;
+
+    color:white;
+}
+.container-fluid{
+    background-color: black;
+
+
+}
+.d-flex{
+    border:1px solid black;
+
+
+}
+.form-control {
+    border: none;
+}
+.advertise{
+    text-align: center;
+
+}
+.announcement{
+    width: 100%;
+    height: 39.5px;
+    background-color: black;
+    color: white;
+}
+.img-for-top-bar{
+    width:200px; height:200px
+}
+.main-content{
+    background-color: black;
+}
+.main-content-top-bar-left{
+    background-color: black;
+    float:left;
+    width:70%
+}
+.main-content-top-bar-right{
+    background-color: black;
+    float:right;
+
+    width: 30%;
+}
+.main-content-left{}
+.img-for-content-left{
+    width:150px; height:200px
+}
+.title-of-film{
+    display: inline-block;
+}
+.main-content-right-img{
+    background-color: black;
+    padding-bottom: 10px;
+
+}
+.figure-caption{
+    color: white;
+.comment{
+
+}
+
+}
+.content-of-comment{
+    color: grey;
+}
